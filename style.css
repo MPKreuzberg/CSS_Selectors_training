@@ -12,3 +12,30 @@
     background-color: red;
 } */
 
+/* CLASS SELECTOR */
+/* div.red.green-text {
+  background: rgb(243, 136, 136);
+  color: green;
+} */
+
+/* #blue {
+    background: rgb(170, 170, 247);
+} */
+
+/* span, li.red {
+    background: red;
+} */
+
+
+/* space meand that every child inside of ul gets same style */
+/* ul li {
+    background: red;    
+} */
+
+/* div b {
+    background-color: aquamarine;
+} */
+
+div .red {
+    background: red;
+}
